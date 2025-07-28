@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Cyber Security Fieldbook Banner" width="80%" />
+</p>
+
 # 📘 Cyber Security Fieldbook
 
 A simple and organized collection of notes and resources related to **Cyber Security** 🕵️‍♂️💻
