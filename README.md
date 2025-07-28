@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Cyber Security Fieldbook Banner" width="80%" />
+  <img src="assets/banner.png" alt="Cyber Security Fieldbook Banner" width="100%" />
 </p>
 
 # 📘 Cyber Security Fieldbook
