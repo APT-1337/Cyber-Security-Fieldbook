@@ -1,6 +1,23 @@
              SOC101 - TCM Security
 
 
+                                                                                       
+                ,----..                                                                
+  .--.--.      /   /   \    ,----..               ,---,    ,----..        ,---,        
+ /  /    '.   /   .     :  /   /   \           ,`--.' |   /   /   \    ,`--.' |        
+|  :  /`. /  .   /   ;.  \|   :     :         /    /  :  /   .     :  /    /  :        
+;  |  |--`  .   ;   /  ` ;.   |  ;. /        :    |.' ' .   /   ;.  \:    |.' '        
+|  :  ;_    ;   |  ; \ ; |.   ; /--`         `----':  |.   ;   /  ` ;`----':  |        
+ \  \    `. |   :  | ; | ';   | ;               '   ' ;;   |  ; \ ; |   '   ' ;        
+  `----.   \.   |  ' ' ' :|   : |               |   | ||   :  | ; | '   |   | |        
+  __ \  \  |'   ;  \; /  |.   | '___            '   : ;.   |  ' ' ' :   '   : ;        
+ /  /`--'  / \   \  ',  / '   ; : .'|           |   | ''   ;  \; /  |   |   | '        
+'--'.     /   ;   :    /  '   | '/  :           '   : | \   \  ',  /    '   : |        
+  `--'---'     \   \ .'   |   :    /            ;   |.'  ;   :    /     ;   |.'        
+                `---`      \   \ .'             '---'     \   \ .'      '---'          
+                            `---`                          `---`                       
+                                                                                       
+
 # 🛡️ SOC 101 – Introduction to Security Operations Center
 
 This course from TCM Security provides a solid foundation in the concepts and operations of a Security Operations Center (SOC), covering important topics such as:
