@@ -23,4 +23,3 @@ A simple and organized collection of notes and resources related to **Cyber Secu
 
 📥 Feel free to **explore**, **clone**, and **contribute**! 🚀
 
-> 💡 Knowledge is power. Stay curious. Stay sharp. 🧠🔥
