@@ -1,7 +1,7 @@
 # 📘 Cyber Security Fieldbook
 
 <p align="center">
-  <img src="assets/banner.png" alt="Cyber Security Fieldbook Banner" width="100%" />
+  <img src="assets/banner0.png" alt="Cyber Security Fieldbook Banner" width="100%" />
 </p>
 
 
