@@ -1,8 +1,7 @@
 # 📘 Cyber Security Fieldbook
 ```
 
-115 171  116 141 155 145  151 163  115 157 150 141 155 155 145 144 
-
+4D 79 20 4E 61 6D 65 20 69 73 20 4D 6F 68 61 6D 6D 65 64
 ```
 
 A simple and organized collection of notes and resources related to **Cyber Security** 🕵️‍♂️💻
