@@ -3,6 +3,10 @@
 
 4D 79 20 4E 61 6D 65 20 69 73 20 4D 6F 68 61 6D 6D 65 64
 ```
+<p align="center">
+  <img src="assets/cyber_security.png" alt="Web Pentest Banner">
+</p>
+
 
 A simple and organized collection of notes and resources related to **Cyber Security** 🕵️‍♂️💻
 
