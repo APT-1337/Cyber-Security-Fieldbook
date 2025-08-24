@@ -13,12 +13,8 @@ A simple and organized collection of notes and resources related to **Cyber Secu
 ## 📂 Contents
 
 - ⚔️ **Red Team** — Offensive Security, Pentesting, and Exploitation.  
-- 🛡️ **Blue Team** — Defense, SOC, and Monitoring.  
-- 🧠 **Threat Intelligence** — Adversary profiling, IOCs, TTPs, and threat hunting.  
-- 🕵️ **Digital Forensics** — Evidence collection, analysis, and investigation.  
-- 🚨 **Incident Response** — Detection, containment, eradication, and recovery.
-
-
+- 🕵️ **Digital Forensics** — Evidence collection, analysis, and investigation.
+  
 ---
 
 🔐 This fieldbook is created for **learning**, **reference**, and **sharing knowledge** in the cybersecurity field.
